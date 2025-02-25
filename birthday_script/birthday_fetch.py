@@ -1,10 +1,10 @@
 import pandas as pd
 import pymssql
 # Set up the database connection details
-server = '10.0.1.146'
-database = 'HRIS'
-username = 'db_admin'
-password = 'FgiDb@dm1n2017'
+server = 'ahahhahh'
+database = 'Hhaha'
+username = 'hahahahahaha'
+password = 'hahahaha'
 
 
 try:
